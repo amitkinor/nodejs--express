@@ -25,7 +25,7 @@ if (app.get('env') === 'development'){
 //Config
 console.log('Applicationi Name: ' + config.get('name'));
 console.log('mail host Name: ' + config.get('mail.host'));
-console.log('mail Password: ' + config.get('mail.password'));
+console.log('mail Password: ' + config.get('password'));
 
 
 
